@@ -1,26 +1,20 @@
-import Game.Levels.DemoWorld
+import Game.Levels.AxiomWorld
 
 -- Here's what we'll put on the title screen
-Title "Hello World Game"
+Title "Ross Game"
 Introduction
 "
-This text appears on the starting page where one selects the world/level to play.
-You can use markdown.
+This is an introduction to Lean for the participants of the Ross Mathematics Program.
 "
 
 Info "
-Here you can put additional information about the game. It is accessible
-from the starting through the drop-down menu.
-
-For example: Game version, Credits, Link to Github and Zulip, etc.
-
-Use markdown.
+https://github.com/rossprogram/integer-game
 "
 
 /-! Information to be displayed on the servers landing page. -/
 Languages "English"
-CaptionShort "Game Template"
-CaptionLong "You should use this game as a template for your own game and add your own levels."
+CaptionShort "Integer Game"
+CaptionLong "Learn Lean at the Ross Mathematics Program"
 -- Prerequisites "" -- add this if your game depends on other games
 -- CoverImage "images/cover.png"
 

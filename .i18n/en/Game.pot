@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Wed Apr 10 15:31:40 2024\n"
+"POT-Creation-Date: Wed Jun 18 11:43:39 2025\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -20,62 +20,72 @@ msgstr ""
 msgid "intermediate goal solved! 🎉"
 msgstr ""
 
-#: Game.Levels.DemoWorld.L01_HelloWorld
-msgid "Hello World"
+#: Game.Levels.AxiomWorld.L01_Addition
+msgid "Addition"
 msgstr ""
 
-#: Game.Levels.DemoWorld.L01_HelloWorld
+#: Game.Levels.AxiomWorld.L01_Addition
+msgid "We begin by checking facts about addition."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L01_Addition
+msgid "associativity of addition in a ring"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L01_Addition
+msgid "commutativity of addition in a ring"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L01_Addition
+msgid "But rings do not only have addition: there is also multiplication!"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L02_Multiplication
+msgid "Multiplication"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L02_Multiplication
 msgid "This text is shown as first message when the level is played.\n"
 "You can insert hints in the proof below. They will appear in this side panel\n"
 "depending on the proof a user provides."
 msgstr ""
 
-#: Game.Levels.DemoWorld.L01_HelloWorld
-msgid "You can either start using `«{h}»` or `«{g}»`."
+#: Game.Levels.AxiomWorld.L02_Multiplication
+msgid "associativity of multiplication in a ring"
 msgstr ""
 
-#: Game.Levels.DemoWorld.L01_HelloWorld
-msgid "You should use `«{h}»` now."
+#: Game.Levels.AxiomWorld.L02_Multiplication
+msgid "commuativity of multiplication in a ring"
 msgstr ""
 
-#: Game.Levels.DemoWorld.L01_HelloWorld
-msgid "You should use `«{g}»` now."
-msgstr ""
-
-#: Game.Levels.DemoWorld.L01_HelloWorld
+#: Game.Levels.AxiomWorld.L02_Multiplication
 msgid "This last message appears if the level is solved."
 msgstr ""
 
-#: Game.Levels.DemoWorld
-msgid "Demo World"
+#: Game.Levels.AxiomWorld
+msgid "Axiom World"
 msgstr ""
 
-#: Game.Levels.DemoWorld
-msgid "This introduction is shown before one enters level 1 of the demo world. Use markdown."
-msgstr ""
-
-#: Game
-msgid "Hello World Game"
+#: Game.Levels.AxiomWorld
+msgid "We introduce the ring axioms."
 msgstr ""
 
 #: Game
-msgid "This text appears on the starting page where one selects the world/level to play.\n"
-"You can use markdown."
+msgid "Ross Game"
 msgstr ""
 
 #: Game
-msgid "Here you can put additional information about the game. It is accessible\n"
-"from the starting through the drop-down menu.\n"
-"\n"
-"For example: Game version, Credits, Link to Github and Zulip, etc.\n"
-"\n"
-"Use markdown."
+msgid "This is an introduction to Lean for the participants of the Ross Mathematics Program."
 msgstr ""
 
 #: Game
-msgid "Game Template"
+msgid "https://github.com/rossprogram/integer-game"
 msgstr ""
 
 #: Game
-msgid "You should use this game as a template for your own game and add your own levels."
+msgid "Integer Game"
+msgstr ""
+
+#: Game
+msgid "Learn Lean at the Ross Mathematics Program"
 msgstr ""
