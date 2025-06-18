@@ -14,10 +14,15 @@ theorem exist_add_inv (a : R) : (∃ (b : R), a + b = 0) := by
   use -a
   exact add_right_neg a
 
-NewTactic rw
+/-- exact provides a term that completes the goal -/
+TacticDoc exact
+
+NewTactic exact
 
 /-- Every element has an additive inverse -/
 TheoremDoc exist_add_inv as "exist_add_inv" in "Ring"
+
+NewTheorem exist_add_inv
 
 Statement (a : R) : ∃ b, (a + a) + b = 0 := by
   exact exist_add_inv (a+a)

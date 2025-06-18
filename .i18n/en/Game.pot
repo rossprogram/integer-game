@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Wed Jun 18 11:43:39 2025\n"
+"POT-Creation-Date: Wed Jun 18 12:03:04 2025\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -60,6 +60,86 @@ msgstr ""
 
 #: Game.Levels.AxiomWorld.L02_Multiplication
 msgid "This last message appears if the level is solved."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L03_Together
+msgid "Together"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L03_Together
+msgid "Let's invoke multiple axioms to prove something."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L03_Together
+msgid "Next we'll combine multiplication and addition via distributivity."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L04_Distributivity
+msgid "Distributivity"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L04_Distributivity
+msgid "Addition and multiplication are related via distributivity."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L04_Distributivity
+msgid "Multiplication distributes over addition on the left"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L04_Distributivity
+msgid "Multiplication distributes over addition on the right"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L04_Distributivity
+msgid "We still need to think about 0 and 1 in rings."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L05_Identities
+msgid "Identities"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L05_Identities
+msgid "Rings include a 0 and a 1 which are additive and multiplicative identities."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L05_Identities
+msgid "0 is an additive identity on the right"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L05_Identities
+msgid "0 is an additive identity on the left"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L05_Identities
+msgid "1 is an multiplicative identity on the right"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L05_Identities
+msgid "1 is an multiplicative identity on the left"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L05_Identities
+msgid "We will have to learn how to combine more axioms to prove more interesting statements."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L06_Inverses
+msgid "Inverses"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L06_Inverses
+msgid "Every element of a ring has an additive inverse."
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L06_Inverses
+msgid "exact provides a term that completes the goal"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L06_Inverses
+msgid "Every element has an additive inverse"
+msgstr ""
+
+#: Game.Levels.AxiomWorld.L06_Inverses
+msgid "We will have to learn how to combine more axioms to prove more interesting statements."
 msgstr ""
 
 #: Game.Levels.AxiomWorld

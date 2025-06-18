@@ -1,6 +1,4 @@
 import Game.Metadata
-import Mathlib.Algebra.Ring.Defs
-import Mathlib.Tactic.Use
 
 World "AxiomWorld"
 Level 4
@@ -16,6 +14,8 @@ Introduction "Addition and multiplication are related via distributivity."
 TheoremDoc left_distrib as "left_distrib" in "Ring"
 /-- Multiplication distributes over addition on the right -/
 TheoremDoc right_distrib as "right_distrib" in "Ring"
+
+NewTheorem left_distrib right_distrib
 
 Statement ( a b : R ) : (a + b) * (a + b) = a * a + b * a + (a * b + b * b) := by
   rw [left_distrib]

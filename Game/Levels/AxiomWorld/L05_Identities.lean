@@ -19,6 +19,8 @@ TheoremDoc mul_one as "mul_one" in "Ring"
 /-- 1 is an multiplicative identity on the left -/
 TheoremDoc one_mul as "one_mul" in "Ring"
 
+NewTheorem add_zero zero_add mul_one one_mul
+
 Statement (a : R) : (1 + 1) * a = a + a := by
   rw [right_distrib]
   rw [one_mul]
