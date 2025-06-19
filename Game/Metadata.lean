@@ -6,8 +6,6 @@ import Mathlib.Algebra.Ring.Defs
 variable {R : Type}
 variable [CommRing R]
 
-namespace Mathlib.Algebra.Ring
-
 theorem exist_add_inv (a : R) : (∃ (b : R), a + b = 0) := by
   use -a
   exact add_right_neg a

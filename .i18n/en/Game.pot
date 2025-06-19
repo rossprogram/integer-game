@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Wed Jun 18 12:03:04 2025\n"
+"POT-Creation-Date: Wed Jun 18 21:45:45 2025\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -131,7 +131,7 @@ msgid "Every element of a ring has an additive inverse."
 msgstr ""
 
 #: Game.Levels.AxiomWorld.L06_Inverses
-msgid "exact provides a term that completes the goal"
+msgid "close a goal by matching it against the conclusion of a given expression"
 msgstr ""
 
 #: Game.Levels.AxiomWorld.L06_Inverses
@@ -148,6 +148,54 @@ msgstr ""
 
 #: Game.Levels.AxiomWorld
 msgid "We introduce the ring axioms."
+msgstr ""
+
+#: Game.Levels.RingWorld.L01
+msgid "Implications"
+msgstr ""
+
+#: Game.Levels.RingWorld.L01
+msgid "We learn how to use the intro tactic."
+msgstr ""
+
+#: Game.Levels.RingWorld.L01
+msgid ""
+msgstr ""
+
+#: Game.Levels.RingWorld.L01
+msgid "We can use intro to prove conditional statements."
+msgstr ""
+
+#: Game.Levels.RingWorld.L02
+msgid "Substitution"
+msgstr ""
+
+#: Game.Levels.RingWorld.L02
+msgid "One of our rules of logic is substitution."
+msgstr ""
+
+#: Game.Levels.RingWorld.L02
+msgid ""
+msgstr ""
+
+#: Game.Levels.RingWorld.L03
+msgid "add_right_cancel"
+msgstr ""
+
+#: Game.Levels.RingWorld.L03
+msgid "Using the axioms, we prove that cancellation is possible."
+msgstr ""
+
+#: Game.Levels.RingWorld.L03
+msgid "You have just proved `add_right_cancel`"
+msgstr ""
+
+#: Game.Levels.RingWorld
+msgid "Ring World"
+msgstr ""
+
+#: Game.Levels.RingWorld
+msgid "We use the ring axioms to prove various facts about rings."
 msgstr ""
 
 #: Game

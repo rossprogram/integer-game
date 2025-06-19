@@ -1,4 +1,5 @@
 import Game.Levels.AxiomWorld
+import Game.Levels.RingWorld
 
 -- Here's what we'll put on the title screen
 Title "Ross Game"
