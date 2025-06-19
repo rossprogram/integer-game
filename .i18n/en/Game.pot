@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Wed Jun 18 21:45:45 2025\n"
+"POT-Creation-Date: Wed Jun 18 21:52:52 2025\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -188,6 +188,18 @@ msgstr ""
 
 #: Game.Levels.RingWorld.L03
 msgid "You have just proved `add_right_cancel`"
+msgstr ""
+
+#: Game.Levels.RingWorld.L04
+msgid "zero times anything"
+msgstr ""
+
+#: Game.Levels.RingWorld.L04
+msgid "Using the axioms, we prove zero times anything vanishes."
+msgstr ""
+
+#: Game.Levels.RingWorld.L04
+msgid "You have just proved `zero_mul`"
 msgstr ""
 
 #: Game.Levels.RingWorld

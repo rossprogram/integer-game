@@ -17,7 +17,7 @@ Languages "English"
 CaptionShort "Integer Game"
 CaptionLong "Learn Lean at the Ross Mathematics Program"
 -- Prerequisites "" -- add this if your game depends on other games
--- CoverImage "images/cover.png"
+CoverImage "images/cover.png"
 
 /-! Build the game. Show's warnings if it found a problem with your game. -/
 MakeGame
